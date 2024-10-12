@@ -35,7 +35,6 @@ The project is organized as follows:
 ├── README.md              # Project Overview
 ├── breast_cancer.csv      # Dataset file
 ├── Breast Cancer.ipynb    # Jupyter notebook with analysis and model
-└── requirements.txt       # Python dependencies
 #Objective
 The goal of this project is to create a logistic regression model that accurately classifies tumors as benign or malignant. We explore both a model using all features and a model using a subset of key features for comparison.
 
